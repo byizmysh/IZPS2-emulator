@@ -9,15 +9,6 @@ IZPS2 runs PlayStation 2 games on Nintendo Switch 2 through IZ2S. It uses the AR
 | [**IZ2S**](https://github.com/byizmysh/IZ2S-Platform) | ✅ Works |
 | **KaiHEN** | ⏳ Coming soon |
 
-## BIOS and games
-
-Copy the files from your own PlayStation 2 and discs to these folders on the Switch 2 SD card. Create the folders if needed.
-
-| File | SD card folder | Format |
-| --- | --- | --- |
-| **PS2 BIOS** | `SD:/iz2s/modules/izps2/bios/` | Raw **4 MiB** BIOS dump, for example `bios.bin` |
-| **PS2 games** | `SD:/iz2s/modules/izps2/games/` | **ISO** (`.iso`) or **CHD** (`.chd`) disc images |
-
 ## Install
 
 ### Through IZ2S App library
@@ -37,6 +28,15 @@ Copy the files from your own PlayStation 2 and discs to these folders on the Swi
 3. Open **IZPS2 emulator** in IZ2S and select a game.
 
 Keep your BIOS, games, saves, and settings when updating. Press **Minus** during gameplay for the emulator menu.
+
+## BIOS and games
+
+Copy the files from your own PlayStation 2 and discs to these folders on the Switch 2 SD card. Create the folders if needed.
+
+| File | SD card folder | Format |
+| --- | --- | --- |
+| **PS2 BIOS** | `SD:/iz2s/modules/izps2/bios/` | Raw **4 MiB** BIOS dump, for example `bios.bin` |
+| **PS2 games** | `SD:/iz2s/modules/izps2/games/` | **ISO** (`.iso`) or **CHD** (`.chd`) disc images |
 
 ## Source and licenses
 
