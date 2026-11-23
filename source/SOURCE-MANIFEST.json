@@ -25,8 +25,8 @@
       "sha256": "7a083b136e64d064794c3419751e5c7dd10d2f64c108fe5ba161eae5e5958a93"
     },
     "README.md": {
-      "bytes": 1627,
-      "sha256": "5e0121265d3feb3499e2fca6adde924c103a68442fbbc905963edfdb9ce8f0de"
+      "bytes": 2202,
+      "sha256": "af91f2462af73c01e4fef6267349d606b9936f826445eec050c3e60760c2abac"
     },
     "THIRD_PARTY.md": {
       "bytes": 652,
@@ -94221,8 +94221,8 @@
       "sha256": "6be4658f4866eb1b678e24ab3d691d796a865be69628fbaf6b03d62d3b45822e"
     },
     "RELEASE-NOTES.md": {
-      "bytes": 467,
-      "sha256": "050d4d4604d1c95f9addbc8519701b251534a5f04f9cfbae0805ed82cb974c41"
+      "bytes": 1152,
+      "sha256": "5db96d6c4bfdd8eb83521010a1668a159437e72cbc138724cb7ff89059bd17f2"
     },
     "overlays/R1324-iza-romfs/ps2_sb4_fs.c": {
       "bytes": 25397,
