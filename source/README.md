@@ -4,11 +4,10 @@ IZPS2 runs PlayStation 2 games on Nintendo Switch 2 through IZ2S. It uses the AR
 
 ## Compatibility
 
-| [IZ2S](https://github.com/byizmysh/IZ2S-Platform) | KaiHEN |
+| Platform | Status |
 | --- | --- |
-| Works | Скоро |
-
-Version **0.5.0** requires IZ2S RUN25 with native ABI 7 and filesystem access.
+| [**IZ2S**](https://github.com/byizmysh/IZ2S-Platform) | ✅ Works |
+| **KaiHEN** | ⏳ Coming soon |
 
 ## BIOS and games
 
@@ -22,7 +21,7 @@ Copy the files from your own PlayStation 2 and discs to these folders on the Swi
 ## Install
 
 1. Download [`izps2-emulator-0.5.0.iza`](https://github.com/byizmysh/IZPS2-emulator/releases/download/v0.5.0/izps2-emulator-0.5.0.iza).
-2. Open **App library** in IZ2S, import the `.iza` file, then install it to the Switch 2 SD card. The file includes the launcher, engine, shaders, fonts, and interface assets.
+2. Open **App library** in IZ2S, import the downloaded `.iza` file as is, then install it to the Switch 2 SD card. The file includes the launcher, engine, shaders, fonts, and interface assets.
 3. Put your BIOS and games in the folders above. Open **IZPS2 emulator** in IZ2S and select a game.
 
 Keep your BIOS, games, saves, and settings when updating. Press **Minus** during gameplay for the emulator menu.

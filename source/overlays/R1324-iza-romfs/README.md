@@ -12,7 +12,7 @@ storage provider from this directory so the assembler can find
 provider object and add the ROMFS object as a direct link input. Run the
 recorded image sealing, export, and relocation verification steps.
 
-The package script consumes the ABI 7 launcher from the R1322 portable IZA
+The package script consumes the launcher from the R1322 portable IZA
 under the name `reference-launcher.iza`, the exported engine receipt
 `engine.izdata.json`, and the ROMFS files. Set `IZ2S_ROOT` to the local
 IZ2S RUN25 source checkout and pass the relocated engine image as the script
